@@ -1,1 +1,1 @@
-# CURSO_TIC-Actividad3
+# CURSO-TIC_Actividad3
